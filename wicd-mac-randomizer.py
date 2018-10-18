@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Name: ICD Radomize MAC Script
+Name: WICD MAC Randomizer
 Dev: K4YT3X
 Date Created: October 18, 2018
 Last Modified: October 18, 2018
